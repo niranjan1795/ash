@@ -2,8 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    char a;
-    int b=a;
+    int b;
     for(int i=65;i<=70;i++){
         printf("\n");
         for(b=65;b<=i;b++){
